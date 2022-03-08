@@ -1,0 +1,32 @@
+
+body{
+	font-family:arial,verdana,helvetica;
+	font-size: 18.75px;
+}
+
+DIV.dosha{
+	border: solid 1px black;
+	width: 30%;
+	padding:10px;
+	float:right;
+}
+
+DIV.pregunta{
+	margin-bottom: 10px;
+}
+
+P.titulo{
+	margin-bottom: 5px;
+}
+
+.pregunta{
+	color: black;
+}
+
+.dosha{
+
+}
+
+#cola{
+	clear:both;
+}
